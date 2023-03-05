@@ -1,3 +1,4 @@
+![scrabble-score](https://user-images.githubusercontent.com/44240533/222983428-8f02e801-7712-48ee-a376-9f400c2b9fb2.svg)
 # Scrabble Score
 
 Welcome to Scrabble Score on Exercism's Java Track.
